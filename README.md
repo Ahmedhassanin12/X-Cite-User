@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# X-cite clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- x-cite e-commerce website created using react js 
+- x-cite is a React  application that interacts with the Firebase backend platform to fetch and display products data.
+- The user can search for a specific product, and save to a favorites list and add to cart via local storage.
+- The user can easily increase or decrease number of item in cart and deleted to.
+- add internationalization to website to make your site multilingual and manage your translations.
 
+## demo
+- https://droobas.github.io/X-Cite-User/
 ## Available Scripts
 
 In the project directory, you can run:
